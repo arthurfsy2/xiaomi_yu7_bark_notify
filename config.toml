@@ -6,7 +6,7 @@ carshopCookie = ""
 deviceToken = ""
 
 [notice]
-deliveryTimeLatest = "锁定订单后预计23-26周交付，预计还需10-13周"
+deliveryTimeLatest = "锁定订单后预计23-26周交付，预计还需9-12周"
 carshopNotice = "账号内暂无绑定车辆，请绑定后再来购买"
 remarks = "--来自Github Action"
 errorTimes = 0
